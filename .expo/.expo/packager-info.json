@@ -1,0 +1,9 @@
+{
+  "packagerPort": 19001,
+  "packagerPid": 8400,
+  "expoServerNgrokUrl": "https://vw-hu5.anonymous.myproject.exp.direct",
+  "packagerNgrokUrl": "https://packager.vw-hu5.anonymous.myproject.exp.direct",
+  "ngrokPid": 9836,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000
+}
